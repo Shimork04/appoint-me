@@ -1,0 +1,17 @@
+.appointment-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .appointment-form label {
+    margin-bottom: 10px;
+  }
+  
+  .appointment-form label input,
+  .appointment-form label textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  
